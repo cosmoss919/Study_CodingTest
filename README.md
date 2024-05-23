@@ -5,7 +5,7 @@
 ## 📚 LeetCode
 |0682-baseball-game|[링크](./LeetCode/0682-baseball-game/README.md)|
 ## 📚 백준
-### 🚀 Bronze
+Test### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/README.md)|

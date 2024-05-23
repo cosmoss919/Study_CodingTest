@@ -2,9 +2,7 @@
 # 코딩 테스트 문제 풀이 목록
 
 
-### 🚀 LeetCode
-| 문제번호 | 링크 |
-| ----- | ----- |
+## 📚 LeetCode
 |0682-baseball-game|[링크](./LeetCode/0682-baseball-game/README.md)|
 ## 📚 백준
 ### 🚀 Bronze

@@ -45,10 +45,6 @@ def main():
                 content += "| ----- | ----- |\n" 
             directories.append(directory)
 
-        if "문제번호" not in content:
-            content += "| 문제번호 | 링크 |\n"
-            content += "| ----- | ----- |\n" 
-
         for file in files:
             if category not in solveds:
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))

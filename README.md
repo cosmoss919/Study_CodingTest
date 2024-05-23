@@ -6,6 +6,10 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |0682-baseball-game|[링크](./LeetCode/0682-baseball-game/README.md)|
+### 🚀 Easy
+| 문제번호 | 링크 |
+| ----- | ----- |
+|0874-backspace-string-compare|[링크](./LeetCode/Easy/0874-backspace-string-compare/README.md)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |

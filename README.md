@@ -12,6 +12,10 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |0032-longest-valid-parentheses|[링크](./LeetCode/Hard/0032-longest-valid-parentheses/README.md)|
+### 🚀 Medium
+| 문제번호 | 링크 |
+| ----- | ----- |
+|0071-simplify-path|[링크](./LeetCode/Medium/0071-simplify-path/README.md)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |

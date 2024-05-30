@@ -8,6 +8,10 @@
 | ----- | ----- |
 |0682-baseball-game|[링크](./LeetCode/Easy/0682-baseball-game/README.md)|
 |0874-backspace-string-compare|[링크](./LeetCode/Easy/0874-backspace-string-compare/README.md)|
+### 🚀 Hard
+| 문제번호 | 링크 |
+| ----- | ----- |
+|0032-longest-valid-parentheses|[링크](./LeetCode/Hard/0032-longest-valid-parentheses/README.md)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |

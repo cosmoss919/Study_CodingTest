@@ -8,6 +8,7 @@
 | ----- | ----- |
 |0125-valid-palindrome|[링크](./LeetCode/Easy/0125-valid-palindrome/README.md)|
 |0203-remove-linked-list-elements|[링크](./LeetCode/Easy/0203-remove-linked-list-elements/README.md)|
+|0392-is-subsequence|[링크](./LeetCode/Easy/0392-is-subsequence/README.md)|
 |0682-baseball-game|[링크](./LeetCode/Easy/0682-baseball-game/README.md)|
 |0874-backspace-string-compare|[링크](./LeetCode/Easy/0874-backspace-string-compare/README.md)|
 ### 🚀 Hard

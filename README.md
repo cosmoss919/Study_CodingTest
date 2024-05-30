@@ -12,6 +12,7 @@
 |0682-baseball-game|[링크](./LeetCode/Easy/0682-baseball-game/README.md)|
 |0874-backspace-string-compare|[링크](./LeetCode/Easy/0874-backspace-string-compare/README.md)|
 |0908-middle-of-the-linked-list|[링크](./LeetCode/Easy/0908-middle-of-the-linked-list/README.md)|
+|1570-final-prices-with-a-special-discount-in-a-shop|[링크](./LeetCode/Easy/1570-final-prices-with-a-special-discount-in-a-shop/README.md)|
 ### 🚀 Hard
 | 문제번호 | 링크 |
 | ----- | ----- |

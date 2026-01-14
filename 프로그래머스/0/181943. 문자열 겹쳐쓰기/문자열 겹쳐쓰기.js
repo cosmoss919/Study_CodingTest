@@ -9,3 +9,13 @@ function solution(my_string, overwrite_string, s) {
     }
     return answer.join('');
 }
+
+/* 참고용 코드
+function solution(my_string, overwrite_string, s) {
+    return (
+        my_string.slice(0, s) +
+        overwrite_string +
+        my_string.slice(s + overwrite_string.length)
+    );
+}
+*/

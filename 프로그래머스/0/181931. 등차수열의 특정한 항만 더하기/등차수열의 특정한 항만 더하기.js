@@ -12,3 +12,11 @@ function solution(a, d, included) {
 
     return sum;
 }
+
+/*
+function solution(a, d, included) {
+    return included.reduce((sum, isIncluded, i) => {
+        return isIncluded ? sum + a + d * i : sum;
+    }, 0);
+}
+*/

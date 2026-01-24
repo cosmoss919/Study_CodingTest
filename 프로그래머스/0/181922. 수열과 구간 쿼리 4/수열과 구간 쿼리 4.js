@@ -9,3 +9,15 @@ function solution(arr, queries) {
 
     return arr;
 }
+
+/*
+function solution(arr, queries) {
+    for (const [s, e, k] of queries) {
+        let start = Math.ceil(s / k) * k;
+        for (let i = start; i <= e; i += k) {
+            arr[i]++;
+        }
+    }
+    return arr;
+}
+*/

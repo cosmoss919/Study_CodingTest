@@ -8,3 +8,19 @@ function solution(my_string, queries) {
 
     return my_string.join('');
 }
+
+/* 처음에는 굳이 splice를 사용할 이유가 없음
+function solution(my_string, queries) {
+    const arr = [...my_string];
+
+    for (const [s, e] of queries) {
+        const reversed = arr
+            .slice(s, e + 1)
+            .reverse();
+
+        arr.splice(s, e - s + 1, ...reversed);
+    }
+
+    return arr.join('');
+}
+*/

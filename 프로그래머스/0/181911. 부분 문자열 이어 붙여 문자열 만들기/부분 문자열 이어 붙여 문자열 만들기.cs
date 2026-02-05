@@ -1,14 +1,20 @@
-using System;
+using System.Text;
 
 public class Solution {
     public string solution(string[] my_strings, int[,] parts)
     {
-        var result = "";
+        var sb = new StringBuilder();
+
         for (int i = 0; i < my_strings.Length; i++)
         {
-            result += my_strings[i].Substring(parts[i, 0], parts[i, 1] - parts[i, 0] + 1);
+            sb.Append(
+                my_strings[i].Substring(
+                    parts[i, 0],
+                    parts[i, 1] - parts[i, 0] + 1
+                )
+            );
         }
 
-        return result;
+        return sb.ToString();
     }
 }

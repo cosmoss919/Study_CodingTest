@@ -14,3 +14,14 @@ public class Solution {
         return sb.ToString();
     }
 }
+
+/*
+using System;
+using System.Linq;
+
+public class Solution {
+    public string solution(int q, int r, string code) {
+            return new String(code.Where((c, i) => i % q == r).ToArray());
+    }
+}
+*/

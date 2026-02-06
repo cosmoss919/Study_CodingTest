@@ -8,3 +8,15 @@ public class Solution {
         return my_string;
     }
 }
+
+/*
+using System;
+
+public class Solution {
+    public string solution(string my_string, int s, int e) {
+        char[] chr = my_string.ToCharArray();
+        Array.Reverse(chr,s,e-s+1);
+        return new string(chr);
+    }
+}
+*/
